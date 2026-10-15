@@ -8,7 +8,7 @@
 
 **Derrick Austin**
 
-*ITSA Student*
+*Lead Instructor*
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-%40daustin65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daustin65) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derrick.austin@mycomputercareer.com)
 
