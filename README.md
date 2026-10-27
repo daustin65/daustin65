@@ -8,7 +8,7 @@
 
 **Derrick Austin**
 
-*IT Professional*
+*Lead Instructor*
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-austin-2636a327/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40daustin65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daustin65) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derrick.austin@mycomputercareer.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1R002Bbi_DLYnkyXUGZkdcEBeXqF_ITCV/edit)
 
@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Lead IT Instructor, 2025 ITSA Lead Instructor of the Year, and U.S. Marine Corps veteran with 30+ years in IT and technical education. ACCET IT Curriculum Reviewer specializing in CompTIA, Linux, Azure, and workforce-focused instruction.
+2025 ITSA Lead Instructor of the Year, and U.S. Marine Corps veteran with 30+ years in IT and technical education. ACCET IT Curriculum Reviewer specializing in CompTIA, Linux, Azure, and workforce-focused instruction.
 
 ---
 
