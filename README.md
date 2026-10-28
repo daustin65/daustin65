@@ -4,11 +4,33 @@
 
 <img src="https://github.com/daustin65.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Derrick Austin
+👋 Hi, I'm Derrick Austin!
 
-**Derrick Austin**
+ITSA Lead Instructor | IT Educator | Cybersecurity & Cloud Technology Professional
 
-*ITSA Lead Instructor*
+💻 Passionate about technology, cybersecurity, and empowering the next generation of IT professionals through hands-on, industry-focused education.
+
+🎓 2025 ITSA Lead Instructor of the Year | U.S. Marine Corps Veteran
+
+With over 30 years of experience in IT and technical education, I specialize in delivering practical, career-focused instruction in:
+
+🔐 Cybersecurity & CompTIA Certifications
+
+🐧 Linux Administration & Open-Source Technologies
+
+☁️ Microsoft Azure & Cloud Computing
+
+⚙️ PowerShell, Bash & Python Scripting
+
+🎯 IT Workforce Development & Technical Training
+
+I also serve as a volunteer ACCET IT Curriculum Reviewer, supporting educational quality and continuous improvement.
+
+🚀 What You'll Find on My GitHub
+
+A growing collection of technical scripts, automation projects, instructional resources, and hands-on exercises designed to support IT learning and professional development.
+
+My philosophy: Learn it. Practice it. Teach it. Master it.
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-austin-2636a327/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40daustin65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daustin65) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derrick.austin@mycomputercareer.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1R002Bbi_DLYnkyXUGZkdcEBeXqF_ITCV/edit)
 
