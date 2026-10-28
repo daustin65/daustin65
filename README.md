@@ -41,7 +41,7 @@ Award-winning IT educator, 2025 MyComputerCareer ITSA Lead Instructor of the Yea
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
 | AWS Academy Graduate - Cloud Foundations - Training Badge | AWS | [Verify](https://www.credly.com/badges/d302d24e-abe7-458f-bac2-d974acdb936f/public_url) | — |
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | (https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob) |
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | — |
 | CompTIA IT Operations Specialist | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | — |
 | CompTIA Network+ | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | — |
 | CompTIA Secure Infrastructure Specialist | CompTIA | [Verify](https://www.credly.com/badges/33254a35-2ebb-4242-a0a5-ad7758a7b0b9/public_url) | — |
