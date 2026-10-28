@@ -41,15 +41,15 @@ Award-winning IT educator, 2025 ITSA Lead Instructor of the Year, and U.S. Marin
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
 | AWS Academy Graduate - Cloud Foundations - Training Badge | AWS | [Verify](https://www.credly.com/badges/d302d24e-abe7-458f-bac2-d974acdb936f/public_url) | ![My Image](aws.png) |
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | ![](https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob) |
-| CompTIA IT Operations Specialist | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![](https://images.credly.com/size/80x80/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png) |
-| CompTIA Network+ | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob) |
-| CompTIA Secure Infrastructure Specialist | CompTIA | [Verify](https://www.credly.com/badges/33254a35-2ebb-4242-a0a5-ad7758a7b0b9/public_url) | ![](https://drive.google.com/file/d/18jbWDK4n5Vbe5K6o_Gmy036ev9faP0j8/view) |
-| CompTIA Security+ | CompTIA | [Verify](https://www.credly.com/badges/9a0e6893-a6cd-4eb1-b561-ea202e63efea/public_url) | ![](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob) |
-| Linux Essentials Certificate | LPI | [Verify](https://www.credly.com/badges/f6fefeaf-7ada-412b-b09d-eb3103db4c5f/public_url) | ![](https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob) |
-| Microsoft Certified: AI Business Professional | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/derrickaustin-6284/credentials/9ffd3db671a32434?ref=https%3A%2F%2Fwww.credly.com%2F) | ![](https://drive.google.com/file/d/1Xl9ak8MU5uRV0X_NNYz5Iy3g4qhGqv9j/view?usp=drive_link) |
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DerrickAustin-6284/851A5F02285A8871?sharingId=56DDC70942D8910A) | ![](https://drive.google.com/file/d/16AXiCnZm0IWvtINdf9x_IOr1nvaIQLml/view?usp=drive_link) |
-| Microsoft Certified: Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DerrickAustin-6284/484E6F390C609648?sharingId=56DDC70942D8910A) | ![](https://drive.google.com/file/d/1RVYgoVswlJ76tJH6djv4Ahug88XiNvdW/view?usp=drive_link) |
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | ![My Image](aplus.png)|
+| CompTIA IT Operations Specialist | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![My Image](CIOS.png) |
+| CompTIA Network+ | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![My Image](networkplus.png) |
+| CompTIA Secure Infrastructure Specialist | CompTIA | [Verify](https://www.credly.com/badges/33254a35-2ebb-4242-a0a5-ad7758a7b0b9/public_url) | ![My Image](CSIS.png) |
+| CompTIA Security+ | CompTIA | [Verify](https://www.credly.com/badges/9a0e6893-a6cd-4eb1-b561-ea202e63efea/public_url) | ![My Image](securityplus.png)|
+| Linux Essentials Certificate | LPI | [Verify](https://www.credly.com/badges/f6fefeaf-7ada-412b-b09d-eb3103db4c5f/public_url) | ![My Image](linux.png) |
+| Microsoft Certified: AI Business Professional | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/derrickaustin-6284/credentials/9ffd3db671a32434?ref=https%3A%2F%2Fwww.credly.com%2F) | ![My Image](aibusinessprofessional.png) |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DerrickAustin-6284/851A5F02285A8871?sharingId=56DDC70942D8910A) | ![My Image](aifundamentals.png) |
+| Microsoft Certified: Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DerrickAustin-6284/484E6F390C609648?sharingId=56DDC70942D8910A) | ![My Image](cloudfundamentals.png)|
 
 ---
 
