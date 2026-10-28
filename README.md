@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Award-winning IT educator, 2025 ITSA Lead Instructor of the Year, and U.S. Marine Corps veteran with 30+ years of experience in IT and technical education. Recognized for instructional excellence, technical expertise, and developing workforce-ready professionals through CompTIA, Linux, and Microsoft Azure training. Serves as a volunteer ACCET IT Curriculum Reviewer, contributing to educational quality and curriculum standards.
+Award-winning IT educator, 2025 MyComputerCareer ITSA Lead Instructor of the Year, and U.S. Marine Corps veteran with 30+ years of experience in IT and technical education. Recognized for instructional excellence, technical expertise, and developing workforce-ready professionals through CompTIA, Linux, and Microsoft Azure training. Serves as a volunteer ACCET IT Curriculum Reviewer, contributing to educational quality and curriculum standards.
 
 ---
 
