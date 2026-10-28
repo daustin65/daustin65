@@ -80,16 +80,7 @@ Award-winning IT educator, 2025 ITSA Lead Instructor of the Year, and U.S. Marin
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| File and Directory Management | Search for Files by Using Wildcards | ✅ Complete | [Open](https://drive.google.com/file/d/1CmHxuBBs4Fcqr6ZfCBgINcV7fV5Je0dv/view?usp=sharing) |
-| Permissions and Ownership | Configure Password Management in Linux | ✅ Complete | [Open](https://drive.google.com/file/d/1dionxh8AnqQilg7XOlc6RSmzEmIfWwoi/view?usp=drive_link) |
-| Text Processing and Filters | Getting Started with Linux System Administration Tasks | ✅ Complete | [Open](https://drive.google.com/file/d/1MMJzlENBhehkoibaqrtKEMWa-BIeviYk/view?usp=drive_link) |
-| Bash Scripting Fundamentals | Shell Scripting Essentials | ✅ Complete | [Open](https://drive.google.com/file/d/1wT-IaewAW25WI73DAMenKwRk18CBhKPX/view?usp=drive_link) |
-| Script Completion and Integration | Perform Linux Command-Line Operations by Using Boolean and Arithmetic Operators | ✅ Complete | [Open](https://drive.google.com/file/d/1btGpqyQa-Tv4JveKIDIhKhFrueyQPmpX/view?usp=drive_link) |
-| Python Fundamentals & Control Flow | Python Fundamentals - Hello World | ✅ Complete | [Open](https://drive.google.com/file/d/1YQgP5UjhGuV1-T99WAG2hB-feQGCLM_h/view?usp=drive_link) |
-| Data Structures, Functions, & Exceptions | Python Novice | ✅ Complete | [Open](https://drive.google.com/file/d/1jzKlC5pYOM3OSpABJD61zSVrmXDaUSRh/view?usp=drive_link) |
-| Introduction to Windows PowerShell | Create a Basic Script in Windows PowerShell | ✅ Complete | [Open](https://drive.google.com/file/d/1mCUBRkEJnqhnvzGpGUM6Uz0eIDiBeiqA/view?usp=drive_link) |
+*No labs added yet.*
 
 </details>
 
@@ -103,7 +94,16 @@ Award-winning IT educator, 2025 ITSA Lead Instructor of the Year, and U.S. Marin
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| File and Directory Management | Search for Files by Using Wildcards | ✅ Complete | [Open](https://drive.google.com/file/d/1CmHxuBBs4Fcqr6ZfCBgINcV7fV5Je0dv/view?usp=sharing) |
+| Permissions and Ownership | Configure Password Management in Linux | ✅ Complete | [Open](https://drive.google.com/file/d/1dionxh8AnqQilg7XOlc6RSmzEmIfWwoi/view?usp=drive_link) |
+| Text Processing and Filters | Getting Started with Linux System Administration Tasks | ✅ Complete | [Open](https://drive.google.com/file/d/1MMJzlENBhehkoibaqrtKEMWa-BIeviYk/view?usp=drive_link) |
+| Bash Scripting Fundamentals | Shell Scripting Essentials | ✅ Complete | [Open](https://drive.google.com/file/d/1wT-IaewAW25WI73DAMenKwRk18CBhKPX/view?usp=drive_link) |
+| Script Completion and Integration | Perform Linux Command-Line Operations by Using Boolean and Arithmetic Operators | ✅ Complete | [Open](https://drive.google.com/file/d/1btGpqyQa-Tv4JveKIDIhKhFrueyQPmpX/view?usp=drive_link) |
+| Python Fundamentals & Control Flow | Python Fundamentals - Hello World | ✅ Complete | [Open](https://drive.google.com/file/d/1YQgP5UjhGuV1-T99WAG2hB-feQGCLM_h/view?usp=drive_link) |
+| Data Structures, Functions, & Exceptions | Python Novice | ✅ Complete | [Open](https://drive.google.com/file/d/1jzKlC5pYOM3OSpABJD61zSVrmXDaUSRh/view?usp=drive_link) |
+| Introduction to Windows PowerShell | Create a Basic Script in Windows PowerShell | ✅ Complete | [Open](https://drive.google.com/file/d/1mCUBRkEJnqhnvzGpGUM6Uz0eIDiBeiqA/view?usp=drive_link) |
 
 </details>
 
