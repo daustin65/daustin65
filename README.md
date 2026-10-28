@@ -63,7 +63,7 @@ Award-winning IT educator, 2025 ITSA Lead Instructor of the Year, and U.S. Marin
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
 | AWS Academy Graduate - Cloud Foundations - Training Badge | AWS | [Verify](https://www.credly.com/badges/d302d24e-abe7-458f-bac2-d974acdb936f/public_url) | ![My Image](images/aws.png) |
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | ![My Image](aplus.png)|
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/badges/f48afaf9-9e9a-46b9-accf-93cd7aaf5e23/public_url) | ![My Image](images/aplus.png)|
 | CompTIA IT Operations Specialist | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![My Image](images/CIOS.png) |
 | CompTIA Network+ | CompTIA | [Verify](https://www.credly.com/badges/0e2563fc-2313-47ce-bd2d-7d5795423b6b/public_url) | ![My Image](images/networkplus.png) |
 | CompTIA Secure Infrastructure Specialist | CompTIA | [Verify](https://www.credly.com/badges/33254a35-2ebb-4242-a0a5-ad7758a7b0b9/public_url) | ![My Image](images/CSIS.png) |
