@@ -35,7 +35,7 @@ Selected exercises from the **Operating Systems I** course portfolio. These are 
 
 | Focus | Lab | Demonstrated concepts |
 |---|---|---|
-| **Linux administration** | [Search for Files by Using Wildcards]![My Image](OS1/wildcards.png) | File and directory management; shell wildcard matching |
+| **Linux administration** | [Search for Files by Using Wildcards](https://OS1/wildcards.png) | File and directory management; shell wildcard matching |
 | **Linux security** | [Configure Password Management in Linux](https://drive.google.com/file/d/1dionxh8AnqQilg7XOlc6RSmzEmIfWwoi/view?usp=drive_link) | Local accounts, password configuration, password quality |
 | **Bash scripting** | [Shell Scripting Essentials](https://drive.google.com/file/d/1wT-IaewAW25WI73DAMenKwRk18CBhKPX/view?usp=drive_link) | Bash fundamentals, conditions, signals, and automation |
 | **Python** | [Python Novice](https://drive.google.com/file/d/1jzKlC5pYOM3OSpABJD61zSVrmXDaUSRh/view?usp=drive_link) | Data structures, functions, and control flow |
