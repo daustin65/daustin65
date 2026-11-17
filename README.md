@@ -2,7 +2,7 @@
 
 # Derrick Austin
 
-My Purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
+My purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
 
 ### Award-Winning IT Educator | Technical Training Leader | Cybersecurity & Cloud Technology Professional
 
