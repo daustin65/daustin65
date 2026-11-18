@@ -2,7 +2,7 @@
 
 # Derrick Austin
 
-As an educator, I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
+As an educator, I empower individuals through education, strengthen our workforce, drive innovation, and help build a stronger, more prosperous nation.
 
 My teaching philosophy — **Learn it. Practice it. Teach it. Master it.** — embodies my commitment to bridging the gap between knowledge and practical application, cultivating confidence and technical competence, and preparing the next generation of IT professionals and technology leaders to make meaningful and lasting contributions to our nation's workforce.
 
