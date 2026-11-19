@@ -2,13 +2,11 @@
 
 # Derrick Austin
 
-As an educator, I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
+My purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
 
 My teaching philosophy — **Learn it. Practice it. Teach it. Master it.** — embodies my commitment to bridging the gap between knowledge and practical application, cultivating confidence, technical competence, and essential soft skills such as communication, collaboration, critical thinking, adaptability, and professionalism. By integrating technical expertise with interpersonal and professional development.
 
-I strive to prepare the next generation of well-rounded IT professionals and technology leaders to make meaningful and lasting contributions to our nation's workforce.
-
-My purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
+As an educator, I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
 
 ### Award-Winning IT Educator | Technical Training Leader | Cybersecurity & Cloud Technology Professional
 
