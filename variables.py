@@ -1,36 +1,10 @@
-x = 5
-y = "John"
-print(x)
-print(y)
+import json
 
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+# some JSON:
+x = '{ "name":"John", "age":30, "city":"New York"}'
 
+# parse x:
+y = json.loads(x)
 
-print(myvar)
-print(my_var)
-print(_my_var)
-print(myVar)
-print(MYVAR)
-print(myvar2)
-
-x, y, z = "Orange", "Banana", "Cherry"
-
-print(x)
-print(y)
-print(z)
-
-x = "Python is awesome"
-print(x)
-
-x = "awesome"
-
-def myfunc():
-  print("Python is " + x)
-
-myfunc()
-print("hello world")
+# the result is a Python dictionary:
+print(y["age"])
