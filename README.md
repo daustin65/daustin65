@@ -4,7 +4,7 @@
 
 **My Purpose**
 
-My purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
+My purpose is to help everyone feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
 
 **My Teaching Philosophy**
 
