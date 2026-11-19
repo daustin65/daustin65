@@ -4,7 +4,7 @@
 
 As an educator, I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
 
-My teaching philosophy — Learn it. Practice it. Teach it. Master it. — embodies my commitment to bridging the gap between knowledge and practical application, cultivating confidence, technical competence, and essential soft skills such as communication, collaboration, critical thinking, adaptability, and professionalism. By integrating technical expertise with interpersonal and professional development.
+My teaching philosophy — **Learn it. Practice it. Teach it. Master it.** — embodies my commitment to bridging the gap between knowledge and practical application, cultivating confidence, technical competence, and essential soft skills such as communication, collaboration, critical thinking, adaptability, and professionalism. By integrating technical expertise with interpersonal and professional development.
 
 I strive to prepare the next generation of well-rounded IT professionals and technology leaders to make meaningful and lasting contributions to our nation's workforce.
 
