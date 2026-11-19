@@ -2,11 +2,17 @@
 
 # Derrick Austin
 
+**My Purpose**
+
 My purpose is to help people feel seen, valued, accepted, and connected so that they experience the belonging of family and know they are not alone.
 
-My teaching philosophy — **Learn it. Practice it. Teach it. Master it.** — embodies my commitment to bridging the gap between knowledge and practical application, cultivating confidence, technical competence, and essential soft skills such as communication, collaboration, critical thinking, adaptability, and professionalism. By integrating technical expertise with interpersonal and professional development.
+**My Teaching Philosophy**
 
-As an educator, I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
+My teaching philosophy — **Learn it. Practice it. Teach it. Master it.** — embraces a growth mindset that encourages continuous learning, perseverance, constructive feedback, and viewing challenges and mistakes as opportunities for growth. I bridge the gap between knowledge and practical application while cultivating confidence, technical competence, and essential soft skills, including communication, collaboration, critical thinking, adaptability, and professionalism.
+
+**My Mission**
+
+As an educator, I strive to develop well-rounded IT professionals and future technology leaders. I believe that empowering individuals through education strengthens our workforce, drives innovation, and contributes to building a stronger, more prosperous nation.
 
 ### Award-Winning IT Educator | Technical Training Leader | Cybersecurity & Cloud Technology Professional
 
